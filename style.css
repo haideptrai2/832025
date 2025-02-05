@@ -1,0 +1,150 @@
+body{
+    background-color:#FDCEDF;
+    margin-right: auto;
+    padding-left: 43px;
+}
+img{
+    border-style:solid;
+    border-color: #FF8DC7;
+    border-radius: 50px;
+    border-width: 15px;
+}
+.contain{
+    display: flex;
+    column-gap: 25px;
+    flex-wrap: wrap;
+}
+img:hover{
+    zoom:103%;
+}
+.anh1{
+    border-style:solid;
+    border-color: #A594F9;
+
+}
+.anh2{
+    border-style:solid;
+    border-color: #FFEEAD;
+}
+.anh3{
+    font-family: Nunito;
+    border-color: #FAF7F0;
+}
+.anh4{
+    border-style:solid;
+    border-color: #FFCFB3;
+}
+.anh5{
+    border-style:solid;
+    border-color: #73EC8B;
+}
+.anh6{
+    border-style:solid;
+    border-color: #DA8359;
+}
+.anh7{
+    border-style:solid;
+    border-color: #DEF9C4;
+}
+.anh8{
+    border-style:solid;
+    border-color: #ECDFCC;
+}
+.anh9{
+    border-style:solid;
+    border-color: #798645;
+}
+.anh10{
+    border-style:solid;
+    border-color: #FFD09B;
+}
+.anh11{
+    border-style:solid;
+    border-color: #FFF7D1;
+}
+.anh12{
+    border-style:solid;
+    border-color: #FF8A8A;
+}
+.anh13{
+    border-style:solid;
+    border-color: #87A2FF;
+}
+.anh14{
+    border-style:solid;
+    border-color: #C4D7FF;
+}
+.anh15{
+    border-style:solid;
+    border-color: #6A9AB0;
+}
+.anh16{
+    border-style:solid;
+    border-color: #BEC6A0;
+}
+.anh17{
+    border-style:solid;
+    border-color: #50B498;
+}
+.anh18{
+    border-style:solid;
+    border-color: #F0EAAC;
+}
+.anh19{
+    border-style:solid;
+    border-color: #C1E2A4;
+}
+.anh20{
+    border-style:solid;
+    border-color: #FFAAAA;
+}
+.anh21{
+    border-style:solid;
+    border-color: #D8A25E;
+}
+.anh22{
+    border-style:solid;
+    border-color: #F2EED7;
+}
+.anh23{
+    border-style:solid;
+    border-color: #FFF100;
+}
+.anh24{
+    border-style:solid;
+    border-color: #FEFAE0;
+}
+.anh25{
+    border-style:solid;
+    border-color: #E85C0D;
+}
+.anh26{
+    border-style:solid;
+    border-color: #664343;
+}
+.anh27{
+    border-style:solid;
+    border-color: #D83A56;
+}
+.anh28{
+    border-style:solid;
+    border-color: #FF8DC7;
+}
+.anh29{
+    border-style:solid;
+    border-color: #FF3796;
+}
+.anh30{
+    border-style:solid;
+    border-color: #FF3796;
+}
+h1{
+    text-align: center;
+    font-family:Gluten;
+    color:#D2E0FB;
+    background-color:black;
+    background-clip: text;
+    -webkit-text-stroke-color: transparent;
+    -webkit-text-stroke-width: calc(3em / 16);
+    -webkit-background-clip: text;
+}
