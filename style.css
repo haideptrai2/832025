@@ -146,5 +146,4 @@ h1{
     -webkit-text-stroke-color: transparent;
     -webkit-text-stroke-width: calc(3em / 16);
     -webkit-background-clip: text;
-    size: 5000px;
 }
